@@ -1,7 +1,7 @@
 Element-Queries
 ===============
 
-Proof of concept / Prototype of element queries
+Proof of concept / Prototype of element queries `.el:media(max-width: 500px) { ... }`
 
 ## To Test
 1. git clone
