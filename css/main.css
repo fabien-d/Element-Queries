@@ -1,0 +1,13 @@
+.el {
+    font-size: 30px;
+}
+    .el:media(max-width: 800px) {
+        font-size: 16px;
+    }
+
+.el2 {
+    font-size: 50px;
+}
+    .el2:media(max-width: 500px) {
+        font-size: 25px;
+    }
