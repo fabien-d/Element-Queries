@@ -6,7 +6,7 @@ Proof of concept / Prototype of element queries
 ## To Test
 1. git clone
 2. from root directory run `npm install`
-3. from root run `node app.js`
+3. from root directory run `node app.js`
 4. open browser to localhost:1337
 5. resize browser window to see font size changes
 
